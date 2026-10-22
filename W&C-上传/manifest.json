@@ -1,0 +1,24 @@
+{
+  "name": "W&C 工作台",
+  "short_name": "W&C",
+  "description": "W&C 健身减脂与英语学习工作台",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#FFF5F7",
+  "theme_color": "#FF8FA3",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

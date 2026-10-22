@@ -1,0 +1,1312 @@
+{
+  "settings": {
+    "apiKey": "sk-eebd42824e694d49a8d3cc5f07295cb3",
+    "apiEndpoint": "https://api.deepseek.com",
+    "model": "deepseek-chat",
+    "visionEndpoint": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "visionKey": "sk-ws-H.EIPIPHR.GAx4.MEUCIB2WZtDBQ-rqoRKbqL9ccvn-ZZJ-JdECHspmyrSEIqW6AiEAtRNfS7-Ovxh7EfYu7OgjDYsod7osTlzzsw3DHdgztXM",
+    "visionModel": "qwen3.7-plus",
+    "wDisplay": "W",
+    "cDisplay": "C",
+    "targetWeight": {
+      "W": 58,
+      "C": 70
+    },
+    "wHeight": 160,
+    "cHeight": 175,
+    "wGender": "女",
+    "cGender": "男",
+    "wAge": 25,
+    "cAge": 26,
+    "wActivity": "中度",
+    "cActivity": "中度",
+    "planStart": "2026-07-29",
+    "engStart": "2026-07-29",
+    "fitAIWithData": true,
+    "upstashUrl": "",
+    "upstashToken": ""
+  },
+  "sidebars": [
+    "W&C 健身减脂",
+    "英语学习"
+  ],
+  "fitness": [
+    {
+      "id": "ms5rixyefp8giv",
+      "date": "2026-07-29",
+      "time": "15:27",
+      "person": "W",
+      "type": "摄入",
+      "content": "挂面鸡蛋冷面做法 一份 50g黄瓜",
+      "calories": 0,
+      "source": "手动",
+      "confirmed": true
+    },
+    {
+      "id": "ms5s2dpc8vycoa",
+      "date": "2026-07-29",
+      "time": "15:43",
+      "person": "W",
+      "type": "摄入",
+      "content": "一个80克的肉松吐司",
+      "calories": 280,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms64s4n0kha3v0",
+      "date": "2026-07-29",
+      "time": "21:39",
+      "person": "W",
+      "type": "摄入",
+      "content": "VC多酚山楂条",
+      "calories": 70,
+      "source": "拍照",
+      "confirmed": true
+    },
+    {
+      "id": "ms652d3njy2ov1",
+      "date": "2026-07-29",
+      "time": "21:47",
+      "person": "C",
+      "type": "摄入",
+      "content": "煎小土豆、抹茶糕点、炒鸡蛋、凉拌黄瓜、葡萄李子、全麦面包",
+      "calories": 800,
+      "source": "拍照",
+      "confirmed": true
+    },
+    {
+      "id": "ms66claq88gum2",
+      "date": "2026-07-29",
+      "time": "22:22",
+      "person": "W",
+      "type": "摄入",
+      "content": "白米饭、土豆青菜汤、玉米炖肉、凉拌黄瓜洋葱花生、烧鸭块",
+      "calories": 820,
+      "source": "拍照",
+      "confirmed": true
+    },
+    {
+      "id": "ms66clvhtnqc1p",
+      "date": "2026-07-29",
+      "time": "22:22",
+      "person": "W",
+      "type": "摄入",
+      "content": "抹茶巧克力多层蛋糕切块及抹茶拿铁",
+      "calories": 620,
+      "source": "拍照",
+      "confirmed": true
+    },
+    {
+      "id": "ms69izxb6lfyqc",
+      "date": "2026-07-29",
+      "time": "23:51",
+      "person": "C",
+      "type": "消耗",
+      "content": "快走6公里每小时，走1小时，约6公里",
+      "calories": 450,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms69kpmbua27bw",
+      "date": "2026-07-29",
+      "time": "23:53",
+      "person": "C",
+      "type": "摄入",
+      "content": "100克先切面、150克青菜、一根半香肠、3克牛肉、半份三分之二份（约三分之一份）的未知食物",
+      "calories": 500,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms69l803b6t3t2",
+      "date": "2026-07-29",
+      "time": "23:53",
+      "person": "C",
+      "type": "摄入",
+      "content": "皮蛋拌豆腐（剩余三分之二）、三个皮蛋粉、一份豆腐",
+      "calories": 450,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms69mequ12qb26",
+      "date": "2026-07-29",
+      "time": "23:54",
+      "person": "W",
+      "type": "消耗",
+      "content": "运动练肩部四组动作约20个",
+      "calories": 150,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms69msercdwk89",
+      "date": "2026-07-29",
+      "time": "23:54",
+      "person": "W",
+      "type": "消耗",
+      "content": "跑步机30分钟配速4.5",
+      "calories": 200,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms6tenr6xilg9l",
+      "date": "2026-07-30",
+      "time": "09:08",
+      "person": "C",
+      "type": "消耗",
+      "content": "清早的体重82.8",
+      "calories": 0,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms6vh4hrt2tu80",
+      "date": "2026-07-30",
+      "time": "10:06",
+      "person": "C",
+      "type": "摄入",
+      "content": "煎蛋和粗粮面包片",
+      "calories": 320,
+      "source": "拍照",
+      "confirmed": true
+    },
+    {
+      "id": "ms6vi1af2pbk4r",
+      "date": "2026-07-30",
+      "time": "10:07",
+      "person": "C",
+      "type": "摄入",
+      "content": "李子",
+      "calories": 50,
+      "source": "拍照",
+      "confirmed": true
+    },
+    {
+      "id": "ms6y74y2msq5ps",
+      "date": "2026-07-30",
+      "time": "11:22",
+      "person": "W",
+      "type": "摄入",
+      "content": "吃了一个80克的红豆麻薯吐司",
+      "calories": 260,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms6y7blpf4ahbg",
+      "date": "2026-07-30",
+      "time": "11:22",
+      "person": "W",
+      "type": "摄入",
+      "content": "葡萄（约50卡）",
+      "calories": 50,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms6yydv1n294sx",
+      "date": "2026-07-30",
+      "time": "11:43",
+      "person": "C",
+      "type": "摄入",
+      "content": "我今天的体重是82.8",
+      "calories": 0,
+      "protein": 0,
+      "fat": 0,
+      "carbs": 0,
+      "fiber": 0,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms6yyziwif1k2u",
+      "date": "2026-07-30",
+      "time": "11:44",
+      "person": "C",
+      "type": "摄入",
+      "content": "中午吃一碗100克先切面，加一个青菜、6克牛肉和一个煎蛋",
+      "calories": 495,
+      "protein": 20,
+      "fat": 15,
+      "carbs": 65,
+      "fiber": 3,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms736find0b8kp",
+      "date": "2026-07-30",
+      "time": "13:41",
+      "person": "W",
+      "type": "摄入",
+      "content": "牛肉鸡蛋青菜汤面",
+      "calories": 510,
+      "protein": 28,
+      "fat": 19,
+      "carbs": 52,
+      "fiber": 3,
+      "source": "拍照",
+      "confirmed": true
+    },
+    {
+      "id": "ms7g5wcxoozuny",
+      "date": "2026-07-30",
+      "time": "19:45",
+      "person": "C",
+      "type": "摄入",
+      "content": "晚上吃了一个80克全麦吐司、一个香肠和三只虾",
+      "calories": 420,
+      "protein": 25,
+      "fat": 15,
+      "carbs": 45,
+      "fiber": 5,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms7g62zn9s78x1",
+      "date": "2026-07-30",
+      "time": "19:45",
+      "person": "C",
+      "type": "摄入",
+      "content": "炒蛋（少油）",
+      "calories": 120,
+      "protein": 9,
+      "fat": 8,
+      "carbs": 1,
+      "fiber": 0,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms7g6b0jorkiff",
+      "date": "2026-07-30",
+      "time": "19:45",
+      "person": "C",
+      "type": "摄入",
+      "content": "生菜150克",
+      "calories": 24,
+      "protein": 2,
+      "fat": 0,
+      "carbs": 5,
+      "fiber": 2,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms7g6o0eflid5x",
+      "date": "2026-07-30",
+      "time": "19:46",
+      "person": "C",
+      "type": "消耗",
+      "content": "中高强度体能课1小时10分钟",
+      "calories": 450,
+      "protein": 0,
+      "fat": 0,
+      "carbs": 0,
+      "fiber": 0,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms7g83yj38twex",
+      "date": "2026-07-30",
+      "time": "19:47",
+      "person": "C",
+      "type": "消耗",
+      "content": "跑步机运动",
+      "calories": 230,
+      "protein": 0,
+      "fat": 0,
+      "carbs": 0,
+      "fiber": 0,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms7gfvr5w8c928",
+      "date": "2026-07-30",
+      "time": "19:53",
+      "person": "W",
+      "type": "摄入",
+      "content": "55颗挂面、一根香肠、一颗鸡蛋、一颗牛肉丸、50克蔬菜",
+      "calories": 650,
+      "protein": 25,
+      "fat": 20,
+      "carbs": 80,
+      "fiber": 3,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms7gh412ot1tjz",
+      "date": "2026-07-30",
+      "time": "19:54",
+      "person": "W",
+      "type": "摄入",
+      "content": "140毫升苹果汁",
+      "calories": 66,
+      "protein": 0,
+      "fat": 0,
+      "carbs": 16,
+      "fiber": 0,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms7ghw5gu91d6w",
+      "date": "2026-07-30",
+      "time": "19:54",
+      "person": "C",
+      "type": "摄入",
+      "content": "140毫升苹果汁",
+      "calories": 65,
+      "protein": 0,
+      "fat": 0,
+      "carbs": 16,
+      "fiber": 0,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms7gin2i2v83t9",
+      "date": "2026-07-30",
+      "time": "19:55",
+      "person": "W",
+      "type": "消耗",
+      "content": "高强度体能课1小时10分钟加跑步机4.5km/h跑30分钟",
+      "calories": 650,
+      "protein": 0,
+      "fat": 0,
+      "carbs": 0,
+      "fiber": 0,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms8bm3hbli1ayi",
+      "date": "2026-07-31",
+      "time": "10:25",
+      "person": "C",
+      "type": "摄入",
+      "content": "50克全麦吐司，一个炒蛋，一杯美式咖啡",
+      "calories": 320,
+      "protein": 15,
+      "fat": 12,
+      "carbs": 38,
+      "fiber": 4,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms8eanf4ipy297",
+      "date": "2026-07-31",
+      "time": "11:40",
+      "person": "W",
+      "type": "摄入",
+      "content": "50克全麦吐司和一个蛋的炒",
+      "calories": 280,
+      "protein": 14,
+      "fat": 10,
+      "carbs": 35,
+      "fiber": 4,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms8eay7n1oo201",
+      "date": "2026-07-31",
+      "time": "11:41",
+      "person": "W",
+      "type": "摄入",
+      "content": "喝一杯话梅糖浆美式",
+      "calories": 120,
+      "protein": 0,
+      "fat": 0,
+      "carbs": 30,
+      "fiber": 0,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms8jfa6mk3hb3g",
+      "date": "2026-07-31",
+      "time": "14:04",
+      "person": "W",
+      "type": "摄入",
+      "content": "凯里酸汤粉（速食粉丝）",
+      "calories": 660,
+      "protein": 5,
+      "fat": 22,
+      "carbs": 108,
+      "fiber": 2,
+      "source": "拍照",
+      "confirmed": true
+    },
+    {
+      "id": "ms8jfmpyocrej1",
+      "date": "2026-07-31",
+      "time": "14:04",
+      "person": "W",
+      "type": "摄入",
+      "content": "100克菠菜和半个皮蛋",
+      "calories": 75,
+      "protein": 6,
+      "fat": 4,
+      "carbs": 4,
+      "fiber": 2,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms8jgol8k9qwvb",
+      "date": "2026-07-31",
+      "time": "14:05",
+      "person": "C",
+      "type": "摄入",
+      "content": "80克干挂面炒两个鸡蛋",
+      "calories": 520,
+      "protein": 22,
+      "fat": 16,
+      "carbs": 78,
+      "fiber": 3,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms8jhoct136e6q",
+      "date": "2026-07-31",
+      "time": "14:06",
+      "person": "C",
+      "type": "摄入",
+      "content": "一颗牛肉丸、100克菠菜、半个皮蛋",
+      "calories": 180,
+      "protein": 15,
+      "fat": 12,
+      "carbs": 6,
+      "fiber": 3,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms8jjfqcig2tut",
+      "date": "2026-07-31",
+      "time": "14:07",
+      "person": "C",
+      "type": "摄入",
+      "content": "100克西红柿炖牛肉（纯牛肉）",
+      "calories": 150,
+      "protein": 26,
+      "fat": 5,
+      "carbs": 3,
+      "fiber": 1,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms8jjs1x2hu9kd",
+      "date": "2026-07-31",
+      "time": "14:08",
+      "person": "W",
+      "type": "摄入",
+      "content": "100克西红柿炖牛肉（纯牛肉）",
+      "calories": 160,
+      "protein": 26,
+      "fat": 6,
+      "carbs": 4,
+      "fiber": 1,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms8kgmaee24z0r",
+      "date": "2026-07-31",
+      "time": "14:33",
+      "person": "C",
+      "type": "摄入",
+      "content": "14克麻薯",
+      "calories": 45,
+      "protein": 1,
+      "fat": 1,
+      "carbs": 10,
+      "fiber": 0,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms8vs35mfzc7vm",
+      "date": "2026-07-31",
+      "time": "19:50",
+      "person": "C",
+      "type": "摄入",
+      "content": "400克冬瓜冬瓜汤，100克炖牛肉，80克全麦吐司",
+      "calories": 530,
+      "protein": 32,
+      "fat": 18,
+      "carbs": 58,
+      "fiber": 8,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms8vsrcaugj4eo",
+      "date": "2026-07-31",
+      "time": "19:50",
+      "person": "W",
+      "type": "摄入",
+      "content": "300克冬瓜汤、40克全麦吐司、100克炖牛",
+      "calories": 320,
+      "protein": 22,
+      "fat": 9,
+      "carbs": 40,
+      "fiber": 5,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms93oi3sbi4cjv",
+      "date": "2026-07-31",
+      "time": "23:31",
+      "person": "C",
+      "type": "摄入",
+      "content": "晚上喝了110克纯牛奶",
+      "calories": 66,
+      "protein": 3,
+      "fat": 4,
+      "carbs": 5,
+      "fiber": 0,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms9o8indaq3uhh",
+      "date": "2026-08-01",
+      "time": "09:06",
+      "person": "C",
+      "type": "摄入",
+      "content": "120克全麦吐司和两个蛋的炒蛋",
+      "calories": 460,
+      "protein": 24,
+      "fat": 16,
+      "carbs": 58,
+      "fiber": 8,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "ms9o8xxoa9zrzh",
+      "date": "2026-08-01",
+      "time": "09:07",
+      "person": "C",
+      "type": "摄入",
+      "content": "30克炖牛肉，一杯美式咖啡",
+      "calories": 60,
+      "protein": 8,
+      "fat": 3,
+      "carbs": 3,
+      "fiber": 0,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "mscredo7ve5ph9",
+      "date": "2026-08-03",
+      "time": "12:58",
+      "person": "C",
+      "type": "摄入",
+      "content": "炖牛肉拌饭（牛肉100克、玉米30克、米饭150克、汤）",
+      "calories": 420,
+      "protein": 25,
+      "fat": 12,
+      "carbs": 52,
+      "fiber": 3,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "mscrevxl30n643",
+      "date": "2026-08-03",
+      "time": "12:59",
+      "person": "W",
+      "type": "摄入",
+      "content": "炖牛肉拌饭（牛肉100克、米饭150克、玉米30克、牛肉汤汁）",
+      "calories": 485,
+      "protein": 28,
+      "fat": 15,
+      "carbs": 62,
+      "fiber": 3,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "msd5kcydiqlrba",
+      "date": "2026-08-03",
+      "time": "19:35",
+      "person": "C",
+      "type": "摄入",
+      "content": "晚上吃了120克的全麦吐司",
+      "calories": 312,
+      "protein": 12,
+      "fat": 4,
+      "carbs": 60,
+      "fiber": 8,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "msd5kt0zh5lodq",
+      "date": "2026-08-03",
+      "time": "19:35",
+      "person": "C",
+      "type": "摄入",
+      "content": "两个蛋的炒蛋+200克娃娃菜+75克炖牛",
+      "calories": 350,
+      "protein": 25,
+      "fat": 22,
+      "carbs": 10,
+      "fiber": 3,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "msd5lmv85a440i",
+      "date": "2026-08-03",
+      "time": "19:36",
+      "person": "W",
+      "type": "摄入",
+      "content": "120克吐司、75克炖牛肉、200克娃娃菜、两个鸡蛋",
+      "calories": 510,
+      "protein": 30,
+      "fat": 18,
+      "carbs": 62,
+      "fiber": 3,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "msd8ip0ms4p0ji",
+      "date": "2026-08-03",
+      "time": "20:58",
+      "person": "C",
+      "type": "摄入",
+      "content": "250克牛奶奶",
+      "calories": 162,
+      "protein": 8,
+      "fat": 9,
+      "carbs": 12,
+      "fiber": 0,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "msfnc8oqmw2jaa",
+      "date": "2026-08-05",
+      "time": "13:28",
+      "person": "C",
+      "type": "摄入",
+      "content": "80克全麦吐司，两个蛋的炒蛋，70克黄瓜",
+      "calories": 420,
+      "protein": 22,
+      "fat": 15,
+      "carbs": 52,
+      "fiber": 6,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "msfnceholmfyc5",
+      "date": "2026-08-05",
+      "time": "13:28",
+      "person": "C",
+      "type": "摄入",
+      "content": "一杯美式咖啡",
+      "calories": 5,
+      "protein": 0,
+      "fat": 0,
+      "carbs": 1,
+      "fiber": 0,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "msfndie8zsev9b",
+      "date": "2026-08-05",
+      "time": "13:29",
+      "person": "C",
+      "type": "摄入",
+      "content": "80克干挂面、170克炒紫甘蓝、两个煎蛋、120克炖牛肉",
+      "calories": 950,
+      "protein": 48,
+      "fat": 32,
+      "carbs": 110,
+      "fiber": 6,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "msg3510ro8kzhd",
+      "date": "2026-08-05",
+      "time": "20:50",
+      "person": "C",
+      "type": "摄入",
+      "content": "150克全麦吐司",
+      "calories": 375,
+      "protein": 15,
+      "fat": 5,
+      "carbs": 70,
+      "fiber": 10,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "msg359i9mro5c8",
+      "date": "2026-08-05",
+      "time": "20:50",
+      "person": "C",
+      "type": "摄入",
+      "content": "3克油炒两个蛋",
+      "calories": 180,
+      "protein": 13,
+      "fat": 14,
+      "carbs": 1,
+      "fiber": 0,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "msg35l1uhd4txc",
+      "date": "2026-08-05",
+      "time": "20:51",
+      "person": "C",
+      "type": "摄入",
+      "content": "40克炖牛肋",
+      "calories": 120,
+      "protein": 12,
+      "fat": 8,
+      "carbs": 0,
+      "fiber": 0,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "msg35rq5ljn3ne",
+      "date": "2026-08-05",
+      "time": "20:51",
+      "person": "C",
+      "type": "摄入",
+      "content": "100克拍黄瓜",
+      "calories": 30,
+      "protein": 2,
+      "fat": 0,
+      "carbs": 6,
+      "fiber": 1,
+      "source": "语音",
+      "confirmed": true
+    },
+    {
+      "id": "msg35w7wguuj5y",
+      "date": "2026-08-05",
+      "time": "20:51",
+      "person": "C",
+      "type": "摄入",
+      "content": "100克小番茄",
+      "calories": 25,
+      "protein": 1,
+      "fat": 0,
+      "carbs": 5,
+      "fiber": 1,
+      "source": "语音",
+      "confirmed": true
+    }
+  ],
+  "weightLog": [
+    {
+      "id": "ms6zly78xa3nvg",
+      "date": "2026-07-30",
+      "person": "C",
+      "weight": 82.8,
+      "source": "手动",
+      "time": "12:02"
+    },
+    {
+      "id": "ms6zm5c1r4ud9r",
+      "date": "2026-07-30",
+      "person": "W",
+      "weight": 84.8,
+      "source": "手动",
+      "time": "12:02"
+    },
+    {
+      "id": "ms89t5kao32kzm",
+      "date": "2026-07-31",
+      "person": "C",
+      "weight": 82.3,
+      "source": "手动",
+      "time": "09:35"
+    },
+    {
+      "id": "ms8vx43fmpgzfo",
+      "date": "2026-07-31",
+      "person": "W",
+      "weight": 84.4,
+      "source": "手动",
+      "time": "19:54"
+    },
+    {
+      "id": "ms9n72v8sl5kee",
+      "date": "2026-08-01",
+      "person": "C",
+      "weight": 83.3,
+      "source": "手动",
+      "time": "08:37"
+    },
+    {
+      "id": "msb75o5s0see7y",
+      "date": "2026-08-02",
+      "person": "C",
+      "weight": 81.2,
+      "source": "手动",
+      "time": "10:44"
+    },
+    {
+      "id": "mscrfbq3hie3x3",
+      "date": "2026-08-03",
+      "person": "C",
+      "weight": 82.1,
+      "source": "手动",
+      "time": "12:59"
+    },
+    {
+      "id": "msdz60u849601r",
+      "date": "2026-08-04",
+      "person": "C",
+      "weight": 81.9,
+      "source": "手动",
+      "time": "09:24"
+    },
+    {
+      "id": "msdzpbteoi6ww6",
+      "date": "2026-08-04",
+      "person": "W",
+      "weight": 84,
+      "source": "手动",
+      "time": "09:39"
+    }
+  ],
+  "pendingFitness": [
+    {
+      "id": "msfnh0n395zszh",
+      "person": "W",
+      "type": "摄入",
+      "content": "红烧牛肉面（含煎蛋、牛肉块、肉丸）及炒紫甘蓝",
+      "calories": 720,
+      "protein": 45,
+      "fat": 35,
+      "carbs": 50,
+      "fiber": 5,
+      "basis": "图中展示了两碗红烧牛肉面（含煎蛋、牛肉、肉丸）和一盘炒紫甘蓝，按单人食用一碗面及一份蔬菜估算。",
+      "source": "拍照",
+      "createdAt": "13:32"
+    }
+  ],
+  "planTasks": [
+    {
+      "id": "ms5s2uceuqls8a",
+      "date": "2026-07-29",
+      "person": "W",
+      "content": "早餐高蛋白（鸡蛋/牛奶）",
+      "done": false
+    },
+    {
+      "id": "ms5s2ucenwrakl",
+      "date": "2026-07-29",
+      "person": "C",
+      "content": "快走30分钟",
+      "done": false
+    },
+    {
+      "id": "ms5s2uceodxcar",
+      "date": "2026-07-29",
+      "person": "both",
+      "content": "记录三餐热量",
+      "done": false
+    },
+    {
+      "id": "ms5s2uced05l9x",
+      "date": "2026-07-30",
+      "person": "W",
+      "content": "午餐七分饱",
+      "done": true
+    },
+    {
+      "id": "ms5s2ucevjilpg",
+      "date": "2026-07-30",
+      "person": "C",
+      "content": "晚餐后散步20分钟",
+      "done": false
+    },
+    {
+      "id": "ms5s2ucefjefxt",
+      "date": "2026-07-30",
+      "person": "both",
+      "content": "记录体重",
+      "done": true
+    },
+    {
+      "id": "ms5s2uceyqi03u",
+      "date": "2026-07-31",
+      "person": "W",
+      "content": "戒掉含糖饮料",
+      "done": false
+    },
+    {
+      "id": "ms5s2ucecoebs7",
+      "date": "2026-07-31",
+      "person": "C",
+      "content": "拉伸15分钟",
+      "done": false
+    },
+    {
+      "id": "ms5s2ucel6yw6o",
+      "date": "2026-07-31",
+      "person": "both",
+      "content": "多喝水2000ml",
+      "done": false
+    },
+    {
+      "id": "ms5s2ucerejidi",
+      "date": "2026-08-01",
+      "person": "W",
+      "content": "早餐粗粮代替精米面",
+      "done": false
+    },
+    {
+      "id": "ms5s2uce0ri8mb",
+      "date": "2026-08-01",
+      "person": "C",
+      "content": "有氧30分钟",
+      "done": false
+    },
+    {
+      "id": "ms5s2ucenqocnj",
+      "date": "2026-08-01",
+      "person": "both",
+      "content": "早睡23点前",
+      "done": false
+    },
+    {
+      "id": "ms5s2ucekj16kl",
+      "date": "2026-08-02",
+      "person": "W",
+      "content": "晚餐减半",
+      "done": false
+    },
+    {
+      "id": "ms5s2uceno8gqn",
+      "date": "2026-08-02",
+      "person": "C",
+      "content": "双人互相监督打卡",
+      "done": false
+    },
+    {
+      "id": "ms5s2ucembump3",
+      "date": "2026-08-02",
+      "person": "both",
+      "content": "复盘本周数据",
+      "done": false
+    },
+    {
+      "id": "ms5s2ucezcervc",
+      "date": "2026-08-03",
+      "person": "W",
+      "content": "早餐高蛋白（鸡蛋/牛奶）",
+      "done": false
+    },
+    {
+      "id": "ms5s2ucebnm7of",
+      "date": "2026-08-03",
+      "person": "C",
+      "content": "快走30分钟",
+      "done": false
+    },
+    {
+      "id": "ms5s2uce7g9w35",
+      "date": "2026-08-03",
+      "person": "both",
+      "content": "记录三餐热量",
+      "done": false
+    },
+    {
+      "id": "ms5s2uceg9hbjm",
+      "date": "2026-08-04",
+      "person": "W",
+      "content": "午餐七分饱",
+      "done": false
+    },
+    {
+      "id": "ms5s2ucewu1w6f",
+      "date": "2026-08-04",
+      "person": "C",
+      "content": "晚餐后散步20分钟",
+      "done": false
+    },
+    {
+      "id": "ms5s2uce4cq71o",
+      "date": "2026-08-04",
+      "person": "both",
+      "content": "记录体重",
+      "done": false
+    },
+    {
+      "id": "ms5s2uceipjw8l",
+      "date": "2026-08-05",
+      "person": "W",
+      "content": "戒掉含糖饮料",
+      "done": false
+    },
+    {
+      "id": "ms5s2ucejrx83v",
+      "date": "2026-08-05",
+      "person": "C",
+      "content": "拉伸15分钟",
+      "done": false
+    },
+    {
+      "id": "ms5s2ucegwvdin",
+      "date": "2026-08-05",
+      "person": "both",
+      "content": "多喝水2000ml",
+      "done": false
+    },
+    {
+      "id": "ms5s2ucen6jxa1",
+      "date": "2026-08-06",
+      "person": "W",
+      "content": "早餐粗粮代替精米面",
+      "done": false
+    },
+    {
+      "id": "ms5s2uceuypyo8",
+      "date": "2026-08-06",
+      "person": "C",
+      "content": "有氧30分钟",
+      "done": false
+    },
+    {
+      "id": "ms5s2uce5i89w5",
+      "date": "2026-08-06",
+      "person": "both",
+      "content": "早睡23点前",
+      "done": false
+    },
+    {
+      "id": "ms5s2uce35epei",
+      "date": "2026-08-07",
+      "person": "W",
+      "content": "晚餐减半",
+      "done": false
+    },
+    {
+      "id": "ms5s2ucemwl44w",
+      "date": "2026-08-07",
+      "person": "C",
+      "content": "双人互相监督打卡",
+      "done": false
+    },
+    {
+      "id": "ms5s2ucen0n5o3",
+      "date": "2026-08-07",
+      "person": "both",
+      "content": "复盘本周数据",
+      "done": false
+    },
+    {
+      "id": "ms5s2ucexyc4bz",
+      "date": "2026-08-08",
+      "person": "W",
+      "content": "早餐高蛋白（鸡蛋/牛奶）",
+      "done": false
+    },
+    {
+      "id": "ms5s2ucec8q51c",
+      "date": "2026-08-08",
+      "person": "C",
+      "content": "快走30分钟",
+      "done": false
+    },
+    {
+      "id": "ms5s2ucecl6aty",
+      "date": "2026-08-08",
+      "person": "both",
+      "content": "记录三餐热量",
+      "done": false
+    },
+    {
+      "id": "ms5s2ucem80uni",
+      "date": "2026-08-09",
+      "person": "W",
+      "content": "午餐七分饱",
+      "done": false
+    },
+    {
+      "id": "ms5s2uceggbs6w",
+      "date": "2026-08-09",
+      "person": "C",
+      "content": "晚餐后散步20分钟",
+      "done": false
+    },
+    {
+      "id": "ms5s2ucegjtqya",
+      "date": "2026-08-09",
+      "person": "both",
+      "content": "记录体重",
+      "done": false
+    },
+    {
+      "id": "ms5s2ucealvbec",
+      "date": "2026-08-10",
+      "person": "W",
+      "content": "戒掉含糖饮料",
+      "done": false
+    },
+    {
+      "id": "ms5s2ucey9qnu2",
+      "date": "2026-08-10",
+      "person": "C",
+      "content": "拉伸15分钟",
+      "done": false
+    },
+    {
+      "id": "ms5s2uceqq54h2",
+      "date": "2026-08-10",
+      "person": "both",
+      "content": "多喝水2000ml",
+      "done": false
+    },
+    {
+      "id": "ms5s2uceipcp71",
+      "date": "2026-08-11",
+      "person": "W",
+      "content": "早餐粗粮代替精米面",
+      "done": false
+    },
+    {
+      "id": "ms5s2ucee6yhm1",
+      "date": "2026-08-11",
+      "person": "C",
+      "content": "有氧30分钟",
+      "done": false
+    },
+    {
+      "id": "ms5s2uce6me60e",
+      "date": "2026-08-11",
+      "person": "both",
+      "content": "早睡23点前",
+      "done": false
+    },
+    {
+      "id": "ms5s2ucedrbw5m",
+      "date": "2026-08-12",
+      "person": "W",
+      "content": "晚餐减半",
+      "done": false
+    },
+    {
+      "id": "ms5s2uceeyssw4",
+      "date": "2026-08-12",
+      "person": "C",
+      "content": "双人互相监督打卡",
+      "done": false
+    },
+    {
+      "id": "ms5s2ucejnqf4f",
+      "date": "2026-08-12",
+      "person": "both",
+      "content": "复盘本周数据",
+      "done": false
+    }
+  ],
+  "fitSummary": {
+    "date": "2026-07-31",
+    "text": "今天的坚持，已经悄悄在数字里开出了花——W的体重连续两天下降，C也稳稳地向下走，这本身就是最棒的反馈！你们俩的热量控制都很出色，W的脂肪和碳水控制得恰到好处，C的蛋白质和纤维也表现亮眼，这样的搭配让减脂既有底气又不失营养。\n\n不过，今晚想温柔提醒一句：蛋白质对你们俩来说都还有提升空间，它是肌肉的“守护神”，也是饱腹感的来源。明天可以试着在早餐或加餐里多加一份鸡蛋、牛奶或豆制品，让身体更有力量去迎接新的挑战。另外，今日计划还没开始，别着急，哪怕完成一小步，也是向目标迈进的一大步。\n\n你们不是一个人在战斗，是两个人互相托底的旅程。今晚好好休息，明天带着这份小小的调整，继续稳稳地走。晚安，明天见！"
+  },
+  "fitRemindLog": {
+    "2026-07-29": true,
+    "2026-08-05": true
+  },
+  "engTasks": [
+    {
+      "id": "ms5s43htoxec88",
+      "date": "2026-07-29",
+      "type": "grammar",
+      "content": "{\"t\":\"一般现在时\",\"lv\":1,\"r\":\"表示习惯性动作、客观事实或长期状态。主语为第三人称单数(he/she/it/单数名词)时，动词加 -s/-es。\",\"ex\":[\"She works in a trading company. 她在一家贸易公司工作。\",\"Our factory produces 10,000 units per month. 我们工厂每月生产一万件。\"],\"err\":\"He work here. → He works here.\",\"gold\":\"We look forward to your reply. 我们期待您的回复。\"}",
+      "answer": "",
+      "review": "",
+      "done": false
+    },
+    {
+      "id": "ms5s43ht82zjq1",
+      "date": "2026-07-29",
+      "type": "practice",
+      "content": "{\"title\":\"一般现在时\",\"fill\":[{\"q\":\"She ___ (work) in the sales department.\",\"a\":\"works\"},{\"q\":\"Our company ___ (export) textiles to Europe.\",\"a\":\"exports\"},{\"q\":\"The price ___ (include) shipping costs.\",\"a\":\"includes\"}],\"ec\":[{\"q\":\"He work in a trading company.\",\"a\":\"He works in a trading company.\"},{\"q\":\"Our factory produce 10,000 units per month.\",\"a\":\"Our factory produces 10,000 units per month.\"}],\"tr\":[{\"q\":\"我们期待您的回复。\",\"a\":\"We look forward to your reply.\"},{\"q\":\"我们公司向欧洲出口纺织品。\",\"a\":\"Our company exports textiles to Europe.\"}]}",
+      "answer": "",
+      "review": "",
+      "done": false
+    },
+    {
+      "id": "ms5s43htebji0n",
+      "date": "2026-07-29",
+      "type": "vocab",
+      "content": "[{\"w\":\"quotation\",\"p\":\"/kwoʊˈteɪʃən/\",\"m\":\"n. 报价单\",\"r\":\"quot(引用)+ation\",\"c\":[\"send a quotation\",\"quotation for bulk order\"],\"e\":\"Please send us your latest quotation for the bulk order.\",\"t\":0},{\"w\":\"invoice\",\"p\":\"/ˈɪnvɔɪs/\",\"m\":\"n. 发票\",\"r\":\"in+voice(票据)\",\"c\":[\"issue an invoice\",\"commercial invoice\"],\"e\":\"We will issue the invoice once the goods are dispatched.\",\"t\":0},{\"w\":\"attachment\",\"p\":\"/əˈtætʃmənt/\",\"m\":\"n. 附件\",\"r\":\"attach(附上)+ment\",\"c\":[\"email attachment\",\"please find attached\"],\"e\":\"Please find the contract in the attachment.\",\"t\":0},{\"w\":\"deadline\",\"p\":\"/ˈdedlaɪn/\",\"m\":\"n. 截止日期\",\"r\":\"dead+line\",\"c\":[\"meet the deadline\",\"tight deadline\"],\"e\":\"The deadline for submitting the proposal is Friday.\",\"t\":0},{\"w\":\"confirm\",\"p\":\"/kənˈfɜːrm/\",\"m\":\"v. 确认\",\"r\":\"con+firm(确定)\",\"c\":[\"confirm the order\",\"confirm receipt\"],\"e\":\"Could you please confirm receipt of this email?\",\"t\":0},{\"w\":\"inquiry\",\"p\":\"/ɪnˈkwaɪəri/\",\"m\":\"n. 询盘/咨询\",\"r\":\"inquir(询问)+y\",\"c\":[\"product inquiry\",\"respond to an inquiry\"],\"e\":\"Thank you for your inquiry about our products.\",\"t\":0},{\"w\":\"cc\",\"p\":\"/ˌsiː ˈsiː/\",\"m\":\"v./n. 抄送\",\"r\":\"carbon copy\",\"c\":[\"cc the manager\",\"keep me cc'd\"],\"e\":\"Please cc me on all future correspondence.\",\"t\":0},{\"w\":\"follow-up\",\"p\":\"/ˈfɒloʊ ʌp/\",\"m\":\"n./adj. 跟进\",\"r\":\"follow+up\",\"c\":[\"follow-up email\",\"follow up on the order\"],\"e\":\"I am writing to follow up on our previous conversation.\",\"t\":0},{\"w\":\"clarify\",\"p\":\"/ˈklærɪfaɪ/\",\"m\":\"v. 澄清\",\"r\":\"clar(清楚)+ify\",\"c\":[\"clarify the details\",\"clarify a point\"],\"e\":\"Could you clarify the payment terms in your offer?\",\"t\":0},{\"w\":\"regards\",\"p\":\"/rɪˈɡɑːrdz/\",\"m\":\"n. 问候(信末)\",\"r\":\"re+gard\",\"c\":[\"best regards\",\"kind regards\"],\"e\":\"Best regards, and looking forward to your reply.\",\"t\":0}]",
+      "answer": "",
+      "review": "",
+      "done": false
+    },
+    {
+      "id": "ms5s43ht31iy9n",
+      "date": "2026-07-29",
+      "type": "speaking",
+      "content": "{\"scene\":\"客户询价电话\",\"setup\":\"客户来电询问产品价格和起订量\",\"lines\":[\"Thank you for calling. May I have your company name?\",\"Our MOQ is 500 units with a unit price of $12.\",\"If you order more than 1,000 units, we can offer a 10% discount.\",\"I will send you the quotation by email right after this call.\"]}",
+      "answer": "",
+      "review": "",
+      "done": false
+    },
+    {
+      "id": "ms5s43htvryy1u",
+      "date": "2026-07-29",
+      "type": "article",
+      "content": "{\"title\":\"How to Write a Professional Business Email\",\"text\":\"Writing a professional business email is a key skill in international trade. Start with a clear subject line that summarizes your purpose. Open with a polite greeting and get to the point quickly. In the first paragraph, state why you are writing. In the middle, provide the necessary details, such as order numbers, dates, or requirements. Keep sentences short and direct. Avoid slang and overly casual expressions. Close with a clear call to action, telling the reader exactly what you need from them and by when. Finally, end with a courteous sign-off such as \\\"Best regards\\\" followed by your full name and company details. Proofread carefully before sending, because small errors can damage your professional image.\"}",
+      "answer": "",
+      "review": "",
+      "done": false
+    }
+  ],
+  "ankiCards": [],
+  "aiChatEng": [],
+  "aiChatFit": [
+    {
+      "role": "user",
+      "content": "哈喽",
+      "time": "14:49"
+    },
+    {
+      "role": "ai",
+      "content": "网络错误: Load failed",
+      "time": "14:49"
+    },
+    {
+      "role": "user",
+      "content": "哈喽",
+      "time": "14:49"
+    },
+    {
+      "role": "ai",
+      "content": "API 错误 (422): {\"error\":{\"message\":\"Failed to deserialize the JSON body into the target type: messages[2].role: unknown variant `ai`, expected one of `system`, `user`, `assistant`, `tool`, `latest_reminder` at line ",
+      "time": "14:49"
+    }
+  ]
+}

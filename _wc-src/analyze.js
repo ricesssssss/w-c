@@ -1,0 +1,14 @@
+﻿const fs = require('fs');
+const d = JSON.parse(fs.readFileSync(process.argv[2],'utf8'));
+const n = a => (a||[]).length;
+console.log('顶层键:', Object.keys(d).join(', '));
+console.log('fitness:', n(d.fitness), '条 | weightLog:', n(d.weightLog), '条 | pendingFitness:', n(d.pendingFitness), '条');
+const all = [...(d.fitness||[]), ...(d.weightLog||[])];
+const ds = [...new Set(all.map(x=>x.date))].sort();
+console.log('日期范围:', ds[0], '→', ds[ds.length-1], '共', ds.length, '天有记录');
+const ppl = {}; (d.fitness||[]).forEach(f=>{ppl[f.person]=(ppl[f.person]||0)+1});
+console.log('饮食记录按人:', JSON.stringify(ppl));
+const chats = [...(d.aiChatFit||[]), ...(d.aiChatEng||[])];
+console.log('聊天消息:', chats.length, '条 | role=ai 脏数据:', chats.filter(c=>c.role==='ai').length, '条');
+const types = {}; (d.fitness||[]).forEach(f=>{types[f.type]=(types[f.type]||0)+1});
+console.log('记录类型:', JSON.stringify(types));
